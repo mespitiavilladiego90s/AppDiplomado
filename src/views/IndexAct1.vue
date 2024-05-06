@@ -7,7 +7,7 @@
     >
       <Header></Header>
 
-      <div class="main-content flex flex-col flex-grow p-4 overflow-auto">
+      <div class="main-content flex flex-col flex-grow p-4">
         <Act1></Act1>
       </div>
 

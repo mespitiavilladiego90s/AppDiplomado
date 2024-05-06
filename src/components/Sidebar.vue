@@ -48,7 +48,7 @@
                   />
                 </svg>
               </span>
-              <span class="ml-3">Actividad 1</span>
+              <span class="ml-3">Act 1</span>
             </a>
           </li>
 
@@ -75,7 +75,7 @@
                   />
                 </svg>
               </span>
-              <span class="ml-3">Actividad 2</span>
+              <span class="ml-3">Act 2</span>
             </a>
           </li>
 

@@ -1,5 +1,5 @@
 <template>
-  <div class="flex gap-4 mb-4">
+  <div class="flex gap-4 mb-4 ml-3">
     <select
       v-model="selectedPeriodo"
       @change="fetchData"
@@ -32,7 +32,7 @@
     </select>
   </div>
 
-  <table class="w-full text-left border-collapse">
+  <table class="text-left border-collapse ml-3 w-auto">
     <thead>
       <tr class="bg-blue-500 text-white">
         <th class="p-2">Periodo</th>
