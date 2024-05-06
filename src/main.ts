@@ -13,6 +13,7 @@ import Header from './components/Header.vue';
 import Footer from './components/Footer.vue';
 import Act1 from './components/Act1.vue';
 import Act2 from './components/Act2.vue';
+import Chart from './components/Chart.vue';
 
 const firebaseConfig = {
   apiKey: import.meta.env.VITE_API_KEY,
@@ -37,3 +38,4 @@ app
 .component('Footer', Footer)
 .component('Act1', Act1)
 .component('Act2', Act2)
+.component('Chart', Chart)
